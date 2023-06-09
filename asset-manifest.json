@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gan-Studio/static/css/main.f967e4d9.css",
+    "main.js": "/Gan-Studio/static/js/main.db850c74.js",
+    "static/js/787.27fb6eb7.chunk.js": "/Gan-Studio/static/js/787.27fb6eb7.chunk.js",
+    "index.html": "/Gan-Studio/index.html",
+    "main.f967e4d9.css.map": "/Gan-Studio/static/css/main.f967e4d9.css.map",
+    "main.db850c74.js.map": "/Gan-Studio/static/js/main.db850c74.js.map",
+    "787.27fb6eb7.chunk.js.map": "/Gan-Studio/static/js/787.27fb6eb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f967e4d9.css",
+    "static/js/main.db850c74.js"
+  ]
+}
